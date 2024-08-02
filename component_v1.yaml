@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: component-v1
+  description: Component V1
+  tags:
+    - React
+    - Angular
+spec:
+  type: website
+  lifecycle: experimental
+  owner: guests
