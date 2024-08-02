@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: component-v1
-  description: Component V1
+  name: component-v2
+  description: Component V2
   tags:
     - angular
 spec:
