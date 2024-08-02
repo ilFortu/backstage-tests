@@ -3,11 +3,9 @@ kind: Component
 metadata:
   name: component-v2
   description: Component V2
-  tags:
-    - angular
 spec:
   type: website
-  lifecycle: experimental
+  lifecycle: ready
   owner: user:ilFortu
   tech:
     - angular
