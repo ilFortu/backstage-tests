@@ -9,3 +9,10 @@ spec:
   type: website
   lifecycle: experimental
   owner: guests
+  tech:
+    - angular
+    - react
+    - typescript
+    - single-spa
+    - primeng
+    - tailwind
