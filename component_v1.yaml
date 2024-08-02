@@ -4,7 +4,6 @@ metadata:
   name: component-v1
   description: Component V1
   tags:
-    - react
     - angular
 spec:
   type: website
