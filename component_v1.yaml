@@ -4,8 +4,8 @@ metadata:
   name: component-v1
   description: Component V1
   tags:
-    - React
-    - Angular
+    - react
+    - angular
 spec:
   type: website
   lifecycle: experimental
