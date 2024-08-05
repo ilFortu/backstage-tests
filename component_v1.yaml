@@ -9,3 +9,7 @@ spec:
   type: website
   lifecycle: experimental
   owner: guests
+  techs:
+    - java
+    - angular
+    - react
