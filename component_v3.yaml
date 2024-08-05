@@ -1,0 +1,23 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: component-v3
+  description: Component V3
+spec:
+  type: website
+  lifecycle: ready
+  owner: user:ilFortu
+  techs:
+    - angular
+    - react
+    - typescript
+    - single-spa
+    - primeng
+    - tailwind
+    - moment
+    - lodash
+    - nx
+    - scss
+    - primereact
+    - i18next
+    - webpack
