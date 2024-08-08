@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: accounting-backoffice-frontend-core
+  title: Backoffice Frontend Core
   description: Backoffice Core
   links:
     - url: http://example.com/
