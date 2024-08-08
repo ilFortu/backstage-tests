@@ -8,7 +8,7 @@ metadata:
     - url: http://example.com/
       title: DEV
     - url: http://example.com
-      title: PRE-PROD
+      title: PRE PROD
    - url: http://example.com
       title: PROD   
     
