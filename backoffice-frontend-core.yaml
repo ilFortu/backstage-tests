@@ -14,6 +14,7 @@ spec:
   type: website
   lifecycle: ready
   owner: accounting-system-users
+  system: accounting-backoffice-frontend
   techs:
     - angular
     - react
