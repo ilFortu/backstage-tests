@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: casa
+  description: Casino-Accounting related repositories
+  title: Casino Accounting
+  links:
+    - url: http://example.com/
+      title: DEV
+    - url: http://example.com
+      title: PRE-PROD
+   - url: http://example.com
+      title: PROD   
+    
+spec:
+  owner: accounting-system-users
