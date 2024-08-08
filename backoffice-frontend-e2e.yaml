@@ -1,0 +1,22 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: accounting-backoffice-frontend-e2e
+  description: Backoffice e2e
+  links:
+    - url: http://example.com/
+      title: DEV
+    - url: http://example.com/
+      title: PREPROD
+    - url: http://example.com/
+      title: PROD
+spec:
+  type: website
+  lifecycle: experimental
+  owner: accounting-system-users
+  system: accounting-backoffice-frontend
+  dependsOn:
+    - component: accounting-backoffice-frontend-core
+  techs:
+    - typescript
+    - playwright
