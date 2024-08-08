@@ -1,0 +1,30 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backoffice-frontend-core
+  description: Backoffice Core
+  links:
+    - url: http://example.com/
+      title: DEV
+    - url: http://example.com/
+      title: PREPROD
+    - url: http://example.com/
+      title: PROD
+spec:
+  type: website
+  lifecycle: ready
+  owner: accounting-system-users
+  techs:
+    - angular
+    - react
+    - typescript
+    - single-spa
+    - primeng
+    - primereact
+    - tailwind
+    - moment
+    - lodash
+    - nx
+    - scss
+    - i18next
+    - webpack
