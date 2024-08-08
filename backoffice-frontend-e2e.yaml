@@ -16,7 +16,7 @@ spec:
   owner: accounting-system-users
   system: accounting-backoffice-frontend
   dependsOn:
-    - component: accounting-backoffice-frontend-core
+    - component:accounting-backoffice-frontend-core
   techs:
     - typescript
     - playwright
