@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: accounting-backoffice-frontend-e2e
+  title: Backoffice Frontend e2e
   description: Backoffice e2e
   links:
     - url: http://example.com/
