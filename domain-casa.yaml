@@ -9,8 +9,7 @@ metadata:
       title: DEV
     - url: http://example.com/
       title: PREPROD
-   - url: http://example.com/
-      title: PROD   
-    
+    - url: http://example.com/
+      title: PROD    
 spec:
   owner: accounting-system-users
