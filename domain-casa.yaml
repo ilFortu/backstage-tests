@@ -7,9 +7,9 @@ metadata:
   links:
     - url: http://example.com/
       title: DEV
-    - url: http://example.com
-      title: PRE PROD
-   - url: http://example.com
+    - url: http://example.com/
+      title: PREPROD
+   - url: http://example.com/
       title: PROD   
     
 spec:
